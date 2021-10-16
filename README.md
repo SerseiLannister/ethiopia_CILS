@@ -4,4 +4,4 @@
 
 [дз1](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/dz1/results1.md)
 
-[дз3](https://serseilannister.github.io/dz3/)
+[дз3](https://github.com/SerseiLannister/dz3)

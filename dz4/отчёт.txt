@@ -1,0 +1,7 @@
+Statistics:
+
+Files:	1
+Tiers:	1
+Annotations:	136
+Unique Words:	80
+Total Words:	136

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">800,588</Object>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <prefList key="Interlinear.VisibleTiers">
+        <String>phrases</String>
+        <String>laughter</String>
+        <String>эээ</String>
+        <String>words</String>
+        <String>lemmas</String>
+    </prefList>
+    <pref key="TokenizeDialog.DestTier">
+        <String>words</String>
+    </pref>
+    <pref key="TranscriptionTable.LastActiveRow">
+        <Int>1</Int>
+    </pref>
+    <prefList key="ExportWordListDialog.selectedTiers">
+        <String>lemmas</String>
+    </prefList>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>341.15137</Float>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="phrases">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="эээ">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="laughter">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+    </prefGroup>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">1091,203</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>341.15137</Float>
+    </pref>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <prefList key="TranscriptionTable.ColumnTypes">
+        <String>default-lt</String>
+    </prefList>
+    <prefList key="ExportWordListDialog.TierOrder">
+        <String>phrases</String>
+        <String>laughter</String>
+        <String>эээ</String>
+        <String>words</String>
+        <String>lemmas</String>
+    </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>62622</Long>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="Interlinear.TierOrder">
+        <String>phrases</String>
+        <String>laughter</String>
+        <String>эээ</String>
+        <String>words</String>
+        <String>lemmas</String>
+    </prefList>
+    <pref key="MediaControlRate">
+        <Float>0.6</Float>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap">
+        <prefList key="words">
+            <String>words</String>
+        </prefList>
+        <prefList key="phrases">
+            <String>phrases</String>
+        </prefList>
+        <prefList key="эээ">
+            <String>эээ</String>
+        </prefList>
+        <prefList key="laughter">
+            <String>laughter</String>
+        </prefList>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>60260</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>61227</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="phrases">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="эээ">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="laughter">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>phrases</String>
+        <String>words</String>
+        <String>lemmas</String>
+        <String>laughter</String>
+        <String>эээ</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>70</Int>
+    </pref>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
+    <prefList key="ExportWordListDialog.HiddenTiers">
+        <String>phrases</String>
+        <String>laughter</String>
+        <String>эээ</String>
+        <String>words</String>
+    </prefList>
+    <prefGroup key="TranscriptionTable.ColumnWidth">
+        <pref key="1">
+            <Int>1506</Int>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>0</Int>
+    </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>31.0</Float>
+    </pref>
+    <pref key="ExportWordListDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>lemmas</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>63101</Long>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Ветка">
+            <Int>75</Int>
+        </pref>
+        <pref key="Слой">
+            <Int>75</Int>
+        </pref>
+        <pref key="Инициалы">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время окончания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Дата создания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время начала">
+            <Int>75</Int>
+        </pref>
+        <pref key="Отправитель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Получатель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Дата изменения">
+            <Int>75</Int>
+        </pref>
+        <pref key="Комментарий">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>phrases</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Время начала</String>
+        <String>Время окончания</String>
+        <String>Слой</String>
+        <String>Инициалы</String>
+        <String>Комментарий</String>
+        <String>Ветка</String>
+        <String>Отправитель</String>
+        <String>Получатель</String>
+        <String>Дата создания</String>
+        <String>Дата изменения</String>
+    </prefList>
+    <pref key="GridViewer.TierName">
+        <String>lemmas</String>
+    </pref>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="Interlinear.SelectionOnly">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="TM.SignalViewer.ZoomLevel">
+        <Float>5.0</Float>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>phrases</String>
+    </pref>
+    <pref key="TranscriptionTable.LastActiveColumn">
+        <String>default-lt</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Отправитель</String>
+        <String>Получатель</String>
+    </prefList>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="Interlinear.FontSizes">
+        <pref key="phrases-TC">
+            <Int>10</Int>
+        </pref>
+        <pref key="laughter-TC">
+            <Int>10</Int>
+        </pref>
+        <pref key="lemmas">
+            <Int>12</Int>
+        </pref>
+        <pref key="words">
+            <Int>12</Int>
+        </pref>
+        <pref key="эээ-TC">
+            <Int>10</Int>
+        </pref>
+        <pref key="phrases">
+            <Int>12</Int>
+        </pref>
+        <pref key="эээ">
+            <Int>12</Int>
+        </pref>
+        <pref key="laughter">
+            <Int>12</Int>
+        </pref>
+    </prefGroup>
+</preferences>

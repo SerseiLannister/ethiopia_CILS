@@ -8,4 +8,4 @@
 
 [дз4](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/dz4/)
 
-[дз5](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/дз5/)
+[дз5](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/дз5/) не уверена в надежности html, поэтому там же скрины, на который комментарий и глоссы (на обоих скринах разные части глосс и комментария, ни то, ни другое не влезло в один)

@@ -7,3 +7,5 @@
 [дз3](https://github.com/SerseiLannister/dz3)
 
 [дз4](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/dz4/)
+
+[дз5](https://github.com/SerseiLannister/ethiopia_CILS/blob/main/дз5/)
